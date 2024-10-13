@@ -1,0 +1,27 @@
+.slider {
+    background-image: url('../assets/Images/pumpkin.jpg');
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.p1color {
+    background-color: rgb(97, 193, 225);
+}
+.p2color {
+    background-color: rgb(168, 222, 147);
+}
+.p3color {
+    background-color: rgb(185, 210, 133);
+}
+.p4color {
+    background-color: rgb(216, 144, 209);
+}
+.p5color {
+    background-color: rgb(162, 143, 204);
+}
+.p-Image {
+    width: 300px;
+    height: 200px;
+}
