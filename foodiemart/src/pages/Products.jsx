@@ -1,5 +1,4 @@
 import React from 'react';
-import Menuitems from '../components/Menuitems';
 import Start from '../assets/Images/rating_starts.png';
 import Product1 from '../assets/Images/product1.jpg';
 import Product2 from '../assets/Images/product2.jpg';
@@ -51,9 +50,6 @@ const Products = () => {
                             </div>
                         </div>
                     ))}
-                </div>
-                <div>
-                <Menuitems/>
                 </div>
             </section>
         </>
